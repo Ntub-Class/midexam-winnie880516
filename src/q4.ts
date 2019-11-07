@@ -6,7 +6,7 @@
 
 
 let calc = function (calcString: string) {
-
+  
 }
 
 calc('8*2')
